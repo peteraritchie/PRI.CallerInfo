@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package >
-  <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
-    <licenseUrl>https://raw.githubusercontent.com/peteraritchie/PRI.CallerInfo/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/peteraritchie/PRI.CallerInfo</projectUrl>
-    <iconUrl>https://github.com/peteraritchie/PRI.CallerInfo/raw/dev/PRI.CallerInfo/CallerInfo.png</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Initial release.</releaseNotes>
-    <copyright>Copyright 2017</copyright>
-    <tags>Visual Studio 2015 CallerInfo</tags>
-  </metadata>
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<licenseUrl>https://raw.githubusercontent.com/peteraritchie/PRI.CallerInfo/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/peteraritchie/PRI.CallerInfo</projectUrl>
+		<iconUrl>https://github.com/peteraritchie/PRI.CallerInfo/raw/dev/PRI.CallerInfo/CallerInfo.png</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>$description$</description>
+		<releaseNotes>Initial release.</releaseNotes>
+		<copyright>Copyright 2017</copyright>
+		<tags>Visual Studio 2015 CallerInfo</tags>
+	</metadata>
 </package>
